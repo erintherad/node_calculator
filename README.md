@@ -2,10 +2,10 @@
 
 This simple calculator was built to demonstrate the functionality of `node.JS` using `GET` requests made on the backend. Users can simply utlize the following pattern to add, subtract, multiply, or divide:
 
-* Add: `localhost:3000/add/2/2`
-* Subtract: `localhost:3000/subtract/2/2`
-* Multiply: `localhost:3000/multiply/2/2`
-* Divide: `localhost:3000/divide/2/2`
+* Add: `localhost:3000/math/add/2/2`
+* Subtract: `localhost:3000/math/subtract/2/2`
+* Multiply: `localhost:3000/math/multiply/2/2`
+* Divide: `localhost:3000/math/divide/2/2`
 
 ### To get this app running locally
 
