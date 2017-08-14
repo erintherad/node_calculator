@@ -11,4 +11,4 @@ This simple calculator was built to demonstrate the functionality of `node.JS` u
 
 1. `git clone git@github.com:erintherad/node_calculator.git` to clone repo locally.
 2. `npm install` to install all packages and dependencies.
-3. `nodedemon` to run a local server on `localhost:3000`
+3. `nodemon` to run a local server on `localhost:3000`
